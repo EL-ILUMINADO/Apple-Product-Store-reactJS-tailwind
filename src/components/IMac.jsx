@@ -58,6 +58,7 @@ const IMac = () => {
         </button>
       </div>
     </div>
+    // corrected the path name
   );
 };
 
