@@ -5,8 +5,8 @@ import Home from "./components/Home";
 import Iphone from "./components/Iphone";
 import Macbook from "./components/Macbook";
 import Watch from "./components/Watch";
-import IMac from "./components/iMac";
 import PageTransition from "./components/PageTransition";
+import IMac from "./components/iMac";
 
 const App = () => {
   const [frameZoom, setFrameZoom] = useState(false);
